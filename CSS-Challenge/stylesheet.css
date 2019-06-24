@@ -1,0 +1,90 @@
+body{ 
+    background: url("images/Tinder-logo%20(1).jpg") no-repeat;
+    background-size: 100%;
+    font-size: 24px;
+
+}
+
+#box{
+    width: 40%;
+    height: 90%;
+    margin: auto;
+    color: #000;
+    background-color: #fff;
+    text-align: center;
+}
+
+p{  padding: 20px 50px; 
+    font-size: 24px;
+    color: black;
+}
+
+img{
+    margin: auto;
+    width: 183px;
+    height: 126px;
+    align-self: center;
+    }
+
+#exit{
+    text-align: end;
+}
+
+#exit a{ 
+    margin: 2px 2px;
+    padding: 1px 2px;
+    border: 1px solid darkgray;
+    border-radius: 25px;
+    box-shadow: 2px 1px;
+    
+    
+}
+
+#facebook{
+    font-size: 24px;
+    color: white; 
+    text-decoration: none;  
+    border-radius: 25px; 
+    width: 80%;
+    border: 10px;
+    background-image: linear-gradient(to right, #000099, #0000e6);
+    padding: 10px 50px;
+    
+}
+
+#phone{
+    font-size: 24px;
+    color: lightgrey; 
+    text-decoration: none;  
+    border-radius: 25px; 
+    width: 80%;
+    border: lightgrey solid 2px;
+    padding: 10px 20px;
+}
+
+a{
+    color: darkgray;
+}
+
+#appstore{
+    align-content: center;
+    height: 25%;  
+}
+
+#appstore img{
+    display: inline-block;
+    max-width: 100%;
+    height: 30px;
+    width: 30px;
+    margin: 30px 40px;
+    padding: 10px 40px;
+    border: 1px solid darkgray;
+    border-radius: 25px;
+    box-shadow: 2px 1px;
+}
+
+
+
+
+
+
